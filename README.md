@@ -1,5 +1,5 @@
 # [work in progress]pypi-string-manager
-Python library to manipulation string.
+Python library for string manipulation.
 
 ## Instalation
 ```
